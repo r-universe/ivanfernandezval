@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "Counterfactual"]
 	path = Counterfactual
 	url = https://github.com/cran/Counterfactual
-	shallow = true
-	registered = true
 [submodule "quantreg.nonpar"]
 	path = quantreg.nonpar
 	url = https://github.com/cran/quantreg.nonpar
-	shallow = true
-	registered = true
 [submodule "Rearrangement"]
 	path = Rearrangement
 	url = https://github.com/cran/Rearrangement
-	shallow = true
-	registered = true
