@@ -5,9 +5,9 @@
 [submodule "Counterfactual"]
 	path = Counterfactual
 	url = https://github.com/cran/Counterfactual
-[submodule "quantreg.nonpar"]
-	path = quantreg.nonpar
-	url = https://github.com/cran/quantreg.nonpar
 [submodule "Rearrangement"]
 	path = Rearrangement
 	url = https://github.com/cran/Rearrangement
+[submodule "quantreg.nonpar"]
+	path = quantreg.nonpar
+	url = https://github.com/cran/quantreg.nonpar
